@@ -20,9 +20,9 @@
 <br />
 <div align="center">
   <div>
-    <img src="https://cdn.dribbble.com/users/948184/screenshots/6216763/624_keyboard_piano_db.gif" width="300" height="300"/>
-    <img src="https://cdn.dribbble.com/users/948184/screenshots/4515905/media/6943cbdbbd667c85df12ba8b989b4153.gif" width="300" height="300"/>
-    <img src="https://cdn.dribbble.com/users/948184/screenshots/6276517/635_mechanical_keyboard_w_screen_db.gif" width="300" height="300"/>
+    <img src="https://cdn.dribbble.com/users/948184/screenshots/6216763/624_keyboard_piano_db.gif" width="200" height="200"/>
+    <img src="https://cdn.dribbble.com/users/948184/screenshots/4515905/media/6943cbdbbd667c85df12ba8b989b4153.gif" width="200" height="200"/>
+    <img src="https://cdn.dribbble.com/users/948184/screenshots/6276517/635_mechanical_keyboard_w_screen_db.gif" width="200" height="200"/>
   </div>
 </div>
 

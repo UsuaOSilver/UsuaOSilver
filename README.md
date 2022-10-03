@@ -30,7 +30,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Solidity Smart Contract Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from California.
+I am a Solidity Smart Contract Engineer from California.
 
 - :telescope: I’m working as a Solidity Smart Contract Intern building web applications by leveraging smart contracts and the blockchain technology.
 

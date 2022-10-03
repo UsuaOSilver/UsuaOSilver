@@ -10,8 +10,11 @@
     <a href="https://twitter.com/UsuaoSilver">
       <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Lens-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzUwIiBoZWlnaHQ9IjM1MCIgdmlld0JveD0iMCAwIDM1MCAzNTAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xNTEuODYgMTYxLjQzOEMxNDcuMzY1IDE2OC45OTYgNzcuMjQ2NyAxNzAuMjY2IDM4Ljk5MzcgMTQ4LjgyOEMwLjc0MDc0MiAxMjcuMzkgMTkuMzI1NSA2MS44NDE1IDU4LjEyNTQgNDQuNjI5M0M5Ni45MjUzIDI3LjQxNzEgMTU2LjM1NSAxNTMuODgxIDE1MS44NiAxNjEuNDM4WiIgZmlsbD0iIzhCNUNGNiIvPgo8cGF0aCBkPSJNMTUxLjMyOSAxODcuNjcyQzE1NS44MjQgMTk1LjIzIDEyMS44OTkgMjU0LjgwOCA4My42NDU3IDI3Ni4yNDZDNDUuMzkyNyAyOTcuNjg0IC0zLjc5NTc4IDI0OS4yODcgMC4yNDc4MDQgMjA4LjA2NUM0LjI5MTQgMTY2Ljg0MiAxNDYuODM0IDE4MC4xMTQgMTUxLjMyOSAxODcuNjcyWiIgZmlsbD0iIzhCNUNGNiIvPgo8cGF0aCBkPSJNMTc0LjQ2OSAyMDEuMjM0QzE4My40NiAyMDEuMjM0IDIxOS42NTEgMjU5LjU0MyAyMTkuNjUxIDMwMi40MTlDMjE5LjY1MSAzNDUuMjk0IDE1MS44NzggMzYyLjQ0NiAxMTcuMTIyIDMzOC40MzVDODIuMzY1NiAzMTQuNDI1IDE2NS40NzkgMjAxLjIzMyAxNzQuNDY5IDIwMS4yMzRaIiBmaWxsPSIjOEI1Q0Y2Ii8+CjxwYXRoIGQ9Ik0xOTguMTQgMTg4LjU2N0MyMDIuNjM1IDE4MS4wMDggMjcyLjc1NCAxNzkuNzM5IDMxMS4wMDYgMjAxLjE3N0MzNDkuMjU5IDIyMi42MTUgMzMwLjY3NSAyODguMTYzIDI5MS44NzUgMzA1LjM3NUMyNTMuMDc0IDMyMi41ODcgMTkzLjY0NSAxOTYuMTI0IDE5OC4xNCAxODguNTY3WiIgZmlsbD0iIzhCNUNGNiIvPgo8cGF0aCBkPSJNMTk4LjY3MSAxNjIuMzI4QzE5NC4xNzYgMTU0Ljc3IDIyOC4xMDEgOTUuMTkxNyAyNjYuMzU0IDczLjc1MzJDMzA0LjYwOCA1Mi4zMTUzIDM1My43OTYgMTAwLjcxMyAzNDkuNzUzIDE0MS45MzVDMzQ1LjcwOSAxODMuMTU4IDIwMy4xNjYgMTY5Ljg4NiAxOTguNjcxIDE2Mi4zMjhaIiBmaWxsPSIjOEI1Q0Y2Ii8+CjxwYXRoIGQ9Ik0xNzUuNTMgMTQ4Ljc2NkMxNjYuNTM5IDE0OC43NjYgMTMwLjM0OCA5MC40NTcxIDEzMC4zNDggNDcuNTgxMkMxMzAuMzQ4IDQuNzA1MjQgMTk4LjEyMSAtMTIuNDQ1OSAyMzIuODc3IDExLjU2NDdDMjY3LjYzNCAzNS41NzUzIDE4NC41MiAxNDguNzY3IDE3NS41MyAxNDguNzY2WiIgZmlsbD0iIzhCNUNGNiIvPgo8L3N2Zz4K&logoColor=white" alt="Lens Badge"/>
+    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=UsuaOSilver&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=UsuaOSilver&style=flat-square&color=grey" alt=""/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -71,6 +74,9 @@ I am a Solidity Smart Contract Engineer from California.
 ---
 
 ### :writing_hand: Blog Posts :
+miror.xyz
+
+comming soon...
 
 <!-- BLOG-POST-LIST:START -->
 - [console.log&lpar;&quot;Hi there!&quot;&rpar;](https://mirror.xyz/0x7D8E2BA35318677d4a0ef3E6C9e8262a36ff5E4B/VQimGDdW1b_LKuX_q1H0USbf69fshJH1DTBPKDIay-M)

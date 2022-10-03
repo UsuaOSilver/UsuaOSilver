@@ -73,6 +73,7 @@ I am a Solidity Smart Contract Engineer from California.
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [console.log&lpar;&quot;Hi there!&quot;&rpar;](https://mirror.xyz/0x7D8E2BA35318677d4a0ef3E6C9e8262a36ff5E4B/VQimGDdW1b_LKuX_q1H0USbf69fshJH1DTBPKDIay-M)
 <!-- BLOG-POST-LIST:END -->
 
 <!--

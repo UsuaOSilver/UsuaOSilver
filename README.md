@@ -33,7 +33,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Solidity Smart Contract Engineer from California.
+I am a Solidity Smart Contract Engineer from California, US.
 
 - :telescope: I’m working as a Solidity Smart Contract Intern building web applications by leveraging smart contracts and the blockchain technology.
 

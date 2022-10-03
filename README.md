@@ -38,7 +38,7 @@ I am a Solidity Smart Contract Engineer <img src="https://media.giphy.com/media/
 
 - :zap: In my free time, I like to explore new Web3 apps and protocols and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Usua◎Silver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usua%E2%97%8E-silver/) [![Protonmail Badge](https://img.shields.io/badge/-anhnhatnguyen@protonmail.com-blueviolet?style=flat&logo=protonmail&logoColor=white)](anhnhatnguyen@protonmail.com)
+- :mailbox:Reach me & Build together! [![Linkedin Badge](https://img.shields.io/badge/-Usua◎Silver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usua%E2%97%8E-silver/) [![Protonmail Badge](https://img.shields.io/badge/-anhnhatnguyen@protonmail.com-blueviolet?style=flat&logo=protonmail&logoColor=white)](anhnhatnguyen@protonmail.com)
 
 ---
 
@@ -63,8 +63,17 @@ I am a Solidity Smart Contract Engineer <img src="https://media.giphy.com/media/
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UsuaOSilver&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsuaOSilver&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **UsuaOSilver/UsuaOSilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

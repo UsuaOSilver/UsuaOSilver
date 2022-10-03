@@ -33,13 +33,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a Solidity Smart Contract Engineer from California, US.
+I am a Solidity Smart Contract Engineer from California, US. 🌊
 
 - :telescope: I’m working as a Solidity Smart Contract Intern building web applications by leveraging smart contracts and the blockchain technology.
 
-- :seedling: NFT-fi development.
+- :seedling: Exploring NFT-fi development.
 
-- :zap: In my free time, I like to explore new Web3 apps and protocols and read tech articles.
+- :zap: In my free time, I like to learn about new Web3 apps and protocols and make music.
 
 - :mailbox:Reach me & Build together! [![Linkedin Badge](https://img.shields.io/badge/-Usua◎Silver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usua%E2%97%8E-silver/) [![Protonmail Badge](https://img.shields.io/badge/-anhnhatnguyen@protonmail.com-blueviolet?style=flat&logo=protonmail&logoColor=white)](anhnhatnguyen@protonmail.com)
 

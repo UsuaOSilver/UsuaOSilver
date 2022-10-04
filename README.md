@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/usua%E2%97%8E-silver/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="Usua◎ Silver#2618">
+    <a href="https://github.com/UsuaOSilver">
       <img src="https://img.shields.io/badge/Discord-Usua◎%20Silver%232618-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="https://twitter.com/UsuaoSilver">

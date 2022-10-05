@@ -46,6 +46,11 @@ I am a Solidity Smart Contract Engineer from California, US. 🌊
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<div id="header" align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsuaOSilver&layout=compact&theme=tokyonight&bg_color=000000&card_width=200px)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -62,22 +67,23 @@ I am a Solidity Smart Contract Engineer from California, US. 🌊
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+</div>
 
 ---
 
 ### :fire: My Stats :
 
+<div id="header" align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UsuaOSilver&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsuaOSilver&layout=compact&theme=tokyonight&bg_color=000000&card_width=200px)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 
 ### :writing_hand: Blog Posts :
-miror.xyz
 
-comming soon...
+usua◎silver.miror.xyz comming soon...
 
 <!-- BLOG-POST-LIST:START -->
 - [console.log&lpar;&quot;Hi there!&quot;&rpar;](https://mirror.xyz/0x7D8E2BA35318677d4a0ef3E6C9e8262a36ff5E4B/VQimGDdW1b_LKuX_q1H0USbf69fshJH1DTBPKDIay-M)

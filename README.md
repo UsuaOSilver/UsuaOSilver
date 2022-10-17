@@ -37,7 +37,7 @@ I am a Solidity Smart Contract Engineer from California, US. 🌊
 
 - :telescope: I’m working as a Solidity Smart Contract Intern building web applications by leveraging smart contracts and the blockchain technology.
 
-- :seedling: Exploring NFT-fi development.
+- :seedling: Exploring NFT-fi.
 
 - :zap: In my free time, I like to learn about new Web3 apps and protocols and make music.
 

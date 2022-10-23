@@ -39,7 +39,7 @@ I am a Solidity Smart Contract Engineer from California, US. 🌊
 
 - :seedling: Exploring NFT-fi.
 
-- :zap: In my free time, I like to learn about new Web3 apps and protocols and make music.
+- :zap: In my free time, I like to learn about new Web3 protocols and make music.
 
 - :mailbox: Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-Usua◎Silver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usua%E2%97%8E-silver/) [![Protonmail Badge](https://img.shields.io/badge/-anhnhatnguyen@protonmail.com-blueviolet?style=flat&logo=protonmail&logoColor=white)](anhnhatnguyen@protonmail.com)
 

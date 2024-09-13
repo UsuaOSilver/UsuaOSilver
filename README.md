@@ -54,16 +54,6 @@ I am a Smart Contract Engineer
 
 ---
 
-### :fire: My Stats :
-
-<div id="header" align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UsuaOSilver&theme=tokyonight&background=000000)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### :writing_hand: Blog Posts :
 
 usua◎silver.miror.xyz comming soon...

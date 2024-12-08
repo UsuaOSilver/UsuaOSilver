@@ -24,7 +24,7 @@ I am a Smart Contract Engineer
 
 - :zap: Making music
 
-- :mailbox: Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-Usua◎Silver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usua%E2%97%8E-silver/) [![Protonmail Badge](https://img.shields.io/badge/-anhnhatnguyen@protonmail.com-blueviolet?style=flat&logo=protonmail&logoColor=white)](anhnhatnguyen@protonmail.com)
+- :mailbox: Let's connect! [![Linkedin Badge](https://img.shields.io/badge/-Usua◎Silver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usua%E2%97%8E-silver/)
 
 ---
 
